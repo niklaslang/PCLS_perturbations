@@ -27,6 +27,6 @@ Publicly available bulk RNA-seq data from microCT based staged IPF tissues re-an
 - Code for scArches mapping of hPCLS (*ex vivo* query) to PF-extended HLCA (*in vivo* reference): *HUMAN_scArches_mapping* directory
 - Conda environments used for the analyses: \*.yml files
 
-## Code availability
+## Acknowledgements
 
 Massive thanks to [Meshal Ansari](https://github.com/Mesh09) and [Lukas Heumos](https://github.com/Zethson) for pre-processing the raw reads, providing feedback and all the fruitful discussions throughout the project, as well as [Vladimir Shitov](https://github.com/VladimirShitov) for mapping the hPCLS data to the Human Lung Cell Atlas (HLCA).
