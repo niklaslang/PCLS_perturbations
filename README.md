@@ -6,7 +6,7 @@ Pulmonary fibrosis develops as a consequence of failed regeneration after injury
 
 ## Citation
 
-Niklas J. Lang\*, Janine Gote-Schniering\*, Diana Porras-Gonzalez, Lin Yang, Laurens J. De Sadeleer, R. Christoph Jentzsch, Vladimir A. Shitov, Shuhong Zhou, Meshal Ansari, Ahmed Agami, Christoph H. Mayr, Baharak Hooshiar Kashani, Yuexin Chen, Lukas Heumos, Jeanine C. Pestoni, Emiel Geeraerts, Vincent Anquetil, Laurent Saniere, Melanie Wögrath, Michael Gerckens, Rudolf Hatz, Nikolaus Kneidinger, Jürgen Behr, Wim A. Wuyts, Mircea-Gabriel Stoleriu, Malte D. Luecken, Fabian J. Theis, Gerald Burgstaller\#, and Herbert B. Schiller\#. medRxiv, 2023. **[*Ex vivo* tissue perturbations coupled to single cell RNA-seq reveal multi-lineage cell circuit dynamics in early human lung fibrogenesis](https://doi.org/)**
+Niklas J. Lang\*, Janine Gote-Schniering\*, Diana Porras-Gonzalez, Lin Yang, Laurens J. De Sadeleer, R. Christoph Jentzsch, Vladimir A. Shitov, Shuhong Zhou, Meshal Ansari, Ahmed Agami, Christoph H. Mayr, Baharak Hooshiar Kashani, Yuexin Chen, Lukas Heumos, Jeanine C. Pestoni, Emiel Geeraerts, Vincent Anquetil, Laurent Saniere, Melanie Wögrath, Michael Gerckens, Rudolf Hatz, Nikolaus Kneidinger, Jürgen Behr, Wim A. Wuyts, Mircea-Gabriel Stoleriu, Malte D. Luecken, Fabian J. Theis, Gerald Burgstaller\#, and Herbert B. Schiller\#. bioRxiv, 2023. **[*Ex vivo* tissue perturbations coupled to single cell RNA-seq reveal multi-lineage cell circuit dynamics in human lung fibrogenesis](https://doi.org/10.1101/2023.01.16.524219)**
 
 \* Co-first authors
 \# Corresponding authors
@@ -15,7 +15,7 @@ Niklas J. Lang\*, Janine Gote-Schniering\*, Diana Porras-Gonzalez, Lin Yang, Lau
 
 Raw 10X Genomics data generated for this study will be made accessible via the Genome-Phenome Archive (EGA). Processed count tables are available on [Zenodo](https://doi.org/10.5281/zenodo.7537493).
 
-Publicly available single cell RNA-seq datasets used to generate the integrated Pulmonary Fibrosis cell atlas can be accessed under the following GEO accession numbers: GSE136831 (New Haven cohort), GSE122960 (Chicago cohort), GSE135893 (Nashville cohort), and on [GitHub](https://github.com/theislab/2020_Mayr)(Munich cohort).
+Publicly available single cell RNA-seq datasets used to generate the integrated Pulmonary Fibrosis cell atlas can be accessed under the following GEO accession numbers: GSE136831 (New Haven cohort), GSE122960 (Chicago cohort), GSE135893 (Nashville cohort), and on [GitHub](https://github.com/theislab/2020_Mayr) (Munich cohort).
 Publicly available bulk RNA-seq data from microCT based staged IPF tissues re-analysed in this study can be accessed under the following GEO accession number: GSE124685.
 
 ## Code availability
