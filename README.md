@@ -14,19 +14,19 @@ Niklas J. Lang\*, Janine Gote-Schniering\*, Diana Porras-Gonzalez, Lin Yang, Lau
 
 ## Data availability
 
-Raw 10X Genomics data generated for this study will be made accessible via the European Genome-Phenome Archive (EGA). Processed count tables are available on [Zenodo](https://doi.org/10.5281/zenodo.7537493).
+Processed count tables to reproduce the analyses in the paper are available on [Zenodo](https://doi.org/10.5281/zenodo.7537493).
 
 Publicly available single cell RNA-seq datasets used to generate the integrated Pulmonary Fibrosis cell atlas can be accessed under the following GEO accession numbers: [GSE136831](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE136831) (New Haven cohort), [GSE122960](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE122960) (Chicago cohort), [GSE135893](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE135893) (Nashville cohort), and on [GitHub](https://github.com/theislab/2020_Mayr) (Munich cohort).
 Publicly available bulk RNA-seq data from microCT based staged IPF tissues re-analysed in this study can be accessed under the following GEO accession number: [GSE124685](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124685).
 
 ## Code availability
 
-- Code to analyse *ex vivo* hPCLS data: *HUMAN_exvivo* directory
-- Code to analyse *in vivo* integrated Pulmonary Fibrosis (PF) cell atlas data: *HUMAN_invivo* directory
+- Code to analyse *ex vivo* (hPCLS) data: *HUMAN_exvivo* directory
+- Code to analyse *in vivo* (integrated Pulmonary Fibrosis cell atlas) data: *HUMAN_invivo* directory
 - Code for systematic comparison of *in vivo* and *ex vivo* data: *HUMAN_invivo_exvivo_comparison* directory
 - Code for scArches mapping of hPCLS (*ex vivo* query) to PF-extended HLCA (*in vivo* reference): *HUMAN_scArches_mapping* directory
 - Conda environments used for the analyses: \*.yml files
 
 ## Acknowledgements
 
-Massive thanks to [Meshal Ansari](https://github.com/Mesh09) and [Lukas Heumos](https://github.com/Zethson) for pre-processing the raw reads, providing feedback and all the fruitful discussions throughout the project, as well as [Vladimir Shitov](https://github.com/VladimirShitov) for mapping the hPCLS data to the Human Lung Cell Atlas (HLCA).
+Massive thanks to [Meshal Ansari](https://github.com/Mesh09) and [Lukas Heumos](https://github.com/Zethson) for pre-processing the raw reads, providing feedback and all the fruitful discussions throughout the project, as well as [Vladimir Shitov](https://github.com/VladimirShitov) for mapping the hPCLS data to the extended Human Lung Cell Atlas (HLCA).
