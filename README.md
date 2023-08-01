@@ -8,7 +8,8 @@ Pulmonary fibrosis develops as a consequence of failed regeneration after injury
 
 ## Citation
 
-Niklas J. Lang\*, Janine Gote-Schniering\*, Diana Porras-Gonzalez, Lin Yang, Laurens J. De Sadeleer, R. Christoph Jentzsch, Vladimir A. Shitov, Shuhong Zhou, Meshal Ansari, Ahmed Agami, Christoph H. Mayr, Baharak Hooshiar Kashani, Yuexin Chen, Lukas Heumos, Jeanine C. Pestoni, Emiel Geeraerts, Vincent Anquetil, Laurent Saniere, Melanie Wögrath, Michael Gerckens, Rudolf Hatz, Nikolaus Kneidinger, Jürgen Behr, Wim A. Wuyts, Mircea-Gabriel Stoleriu, Malte D. Luecken, Fabian J. Theis, Gerald Burgstaller\#, and Herbert B. Schiller\#. bioRxiv, 2023. **[*Ex vivo* tissue perturbations coupled to single cell RNA-seq reveal multi-lineage cell circuit dynamics in human lung fibrogenesis](https://doi.org/10.1101/2023.01.16.524219)**
+Niklas J. Lang\*, Janine Gote-Schniering\*, Diana Porras-Gonzalez, Lin Yang, Laurens J. De Sadeleer, R. Christoph Jentzsch, Vladimir A. Shitov, Shuhong Zhou, Meshal Ansari, Ahmed Agami, Christoph H. Mayr, Baharak Hooshiar Kashani, Yuexin Chen, Lukas Heumos, Jeanine C. Pestoni, Emiel Geeraerts, Vincent Anquetil, Laurent Saniere, Melanie Wögrath, Michael Gerckens, Rudolf Hatz, Nikolaus Kneidinger, Jürgen Behr, Wim A. Wuyts, Mircea-Gabriel Stoleriu, Malte D. Luecken, Fabian J. Theis, Gerald Burgstaller\#, and Herbert B. Schiller\#. 
+**[*Ex vivo* tissue perturbations coupled to single cell RNA-seq reveal multi-lineage cell circuit dynamics in human lung fibrogenesis](https://doi.org/10.1101/2023.01.16.524219)** bioRxiv, 2023.
 
 \* Co-first authors
 
@@ -24,7 +25,7 @@ Publicly available bulk RNA-seq data from microCT staged IPF tissues re-analysed
 ## Code availability
 
 - Code to analyse *ex vivo* (hPCLS) data: *HUMAN_exvivo* directory
-- Code to analyse *in vivo* (integrated Pulmonary Fibrosis (PF)cell atlas) data: *HUMAN_invivo* directory
+- Code to analyse *in vivo* (integrated Pulmonary Fibrosis (PF) cell atlas) data: *HUMAN_invivo* directory
 - Code for systematic comparison of *in vivo* and *ex vivo* data: *HUMAN_invivo_exvivo_comparison* directory
 - Code for scArches mapping of hPCLS (*ex vivo* query) to PF-extended HLCA (*in vivo* reference): *HUMAN_scArches_mapping* directory
 - Conda environments used for the analyses: \*.yml files
