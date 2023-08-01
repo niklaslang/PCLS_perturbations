@@ -8,8 +8,8 @@ Pulmonary fibrosis develops as a consequence of failed regeneration after injury
 
 ## Citation
 
-Niklas J. Lang\*, Janine Gote-Schniering\*, Diana Porras-Gonzalez, Lin Yang, Laurens J. De Sadeleer, R. Christoph Jentzsch, Vladimir A. Shitov, Shuhong Zhou, Meshal Ansari, Ahmed Agami, Christoph H. Mayr, Baharak Hooshiar Kashani, Yuexin Chen, Lukas Heumos, Jeanine C. Pestoni, Emiel Geeraerts, Vincent Anquetil, Laurent Saniere, Melanie Wögrath, Michael Gerckens, Rudolf Hatz, Nikolaus Kneidinger, Jürgen Behr, Wim A. Wuyts, Mircea-Gabriel Stoleriu, Malte D. Luecken, Fabian J. Theis, Gerald Burgstaller\#, and Herbert B. Schiller\#. 
-**[*Ex vivo* tissue perturbations coupled to single cell RNA-seq reveal multi-lineage cell circuit dynamics in human lung fibrogenesis](https://doi.org/10.1101/2023.01.16.524219)** bioRxiv, 2023.
+Niklas J. Lang\*, Janine Gote-Schniering\*, Diana Porras-Gonzalez, Lin Yang, Laurens J. De Sadeleer, R. Christoph Jentzsch, Vladimir A. Shitov, Shuhong Zhou, Meshal Ansari, Ahmed Agami, Christoph H. Mayr, Baharak Hooshiar Kashani, Yuexin Chen, Lukas Heumos, Jeanine C. Pestoni, Emiel Geeraerts, Vincent Anquetil, Laurent Saniere, Melanie Wögrath, Michael Gerckens, Rudolf Hatz, Nikolaus Kneidinger, Jürgen Behr, Wim A. Wuyts, Mircea-Gabriel Stoleriu, Malte D. Luecken, Fabian J. Theis, Gerald Burgstaller\#, and Herbert B. Schiller\#.\
+**[*Ex vivo* tissue perturbations coupled to single cell RNA-seq reveal multi-lineage cell circuit dynamics in human lung fibrogenesis](https://doi.org/10.1101/2023.01.16.524219)** *bioRxiv*, 2023.
 
 \* Co-first authors
 
